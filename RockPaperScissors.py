@@ -30,7 +30,7 @@ game_images = [rock, paper, scissors]
 print('\nWelcome to Rock, Paper, Scissors Game!\n')
 user_choice = int(input('''What is your choice? 
 Type: 0 for Rock, 1 for Paper or 2 for Scissors.
-Input your choice number here:'''))
+Input your choice number here: '''))
 if user_choice >= 3 or user_choice < 0: 
     print("You typed an invalid number, you lose!") 
 else:

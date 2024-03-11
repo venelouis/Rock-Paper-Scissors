@@ -1,13 +1,28 @@
 # Rock, Paper and Scissors
 ```
-rock = '''
+Welcome to Rock, Paper, Scissors Game!
+
+What is your choice? 
+Type: 0 for Rock, 1 for Paper or 2 for Scissors.
+Input your choice number here: 0
+
     _______
 ---'   ____)
       (_____)
       (_____)
       (____)
 ---.__(___)
-'''
+
+Computer chose:
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+It's a draw
 ```
 <div align="center">
   <p>
